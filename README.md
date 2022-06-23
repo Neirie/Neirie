@@ -4,13 +4,11 @@
 <p>🌈 I like when projects come to life.</p>
 <p>🤓 Geek as well</p>
 <p>:art: Clearly love to design products</p>
-<br>
 <h2>But I am also:</h2>
 <p>👩‍💻 Communication Consultant</p>
 <p>🎬 Film Producer</p>
 <p>📷 Photographer</p>
 <p>🏗️ Entrepreneur</p>
-<br>
 <h2>When I am not working/studying:</h2>
 <p>👨‍👩‍👧‍👦 Mother of 2</p>
 <p>👩‍🍳 Cooking</p>
@@ -23,7 +21,6 @@
 <p>🧵 Sewing</p>
 <p>💃 Hanging out</p>
 <p>and many others stuffs </p>
-<br>
 <h2> Q & A </h2>
 <p>:laughing: I’m currently re-booting myself on le Wagon's bootcamp, especially on back-end</p>
 <p>:mag: Take a look on our Wagon's project: http://www.almanac.lol</p>
