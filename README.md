@@ -1,4 +1,4 @@
-<h1>Welcome here!</h1>
+<h1>Welcome in my marvellous github's world!</h1>
 
 <h2> Why am I coding?</h2>
 <p>🌈 I like when projects come to life.</p>
@@ -22,7 +22,9 @@
 <p>💃 Hanging out</p>
 <p>and many others stuffs </p>
 <h2> Q & A </h2>
+<p>🇩🇪 I live in Berlin, but originally from 🇫🇷 </p>
+<p>💬 English, french & german</p>
 <p>:laughing: I’m currently re-booting myself on le Wagon's bootcamp, especially on back-end</p>
 <p>:mag: Take a look on our Wagon's project: http://www.almanac.lol</p>
 <p>:bookmark: My troopl => https://troopl.com/neirie>MyToopl</p>
-<p>:eyes: My linkedin => https://www.linkedin.com/in/laurencernguyen/ </p>
+<p>:eyes: My linkedin => https://www.linkedin.com/in/laurencernguyen/</p>
