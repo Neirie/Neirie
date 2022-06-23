@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1>Welcome here!</h1>
 
-<!--
-**Neirie/Neirie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Why am I coding?</h2>
+<p>🌈 I like when projects come to life.</p>
+<p>🤓 Geek as well</p>
+<p>:art: Clearly love to design products</p>
+<br>
+<h2>But I am also:</h2>
+<p>👩‍💻 Communication Consultant</p>
+<p>🎬 Film Producer</p>
+<p>📷 Photographer</p>
+<p>🏗️ Entrepreneur</p>
+<br>
+<h2>When I am not working/studying:</h2>
+<p>👨‍👩‍👧‍👦 Mother of 2</p>
+<p>👩‍🍳 Cooking</p>
+<p>🧘‍♀️ Pilate/Yoga</p>
+<p>📚 Reading</p>
+<p>🎥 Watching Films</p>
+<p>🎵 Listening to (lot of) musics</p>
+<p>🧳 Travelling</p>
+<p>👩🏻‍🌾 Gardening</p>
+<p>🧵 Sewing</p>
+<p>💃 Hanging out</p>
+<p>and many others stuffs </p>
+<br>
+<h2> Q & A </h2>
+<p>:laughing: I’m currently re-booting myself on le Wagon's bootcamp, especially on back-end</p>
+<p>:mag: Take a look on our Wagon's project: http://www.almanac.lol</p>
+<p>:bookmark: My troopl => https://troopl.com/neirie>MyToopl</p>
+<p>:eyes: My linkedin => https://www.linkedin.com/in/laurencernguyen/ </p>
