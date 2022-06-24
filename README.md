@@ -26,5 +26,5 @@
 <p>💬 English, french & german</p>
 <p>:laughing: I’m currently re-booting myself on le Wagon's bootcamp, especially on back-end</p>
 <p>:mag: Take a look on our Wagon's project: http://www.almanac.lol</p>
-<p>:bookmark: My Toopl =>(https://troopl.com/neirie)</p>
+<p>:bookmark: My Toopl => https://troopl.com/neirie</p>
 <p>:eyes: My linkedin => https://www.linkedin.com/in/laurencernguyen/</p>
