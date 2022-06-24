@@ -1,5 +1,7 @@
 <h1>Welcome in my marvellous github's world!</h1>
 
+![The San Juan Mountains are beautiful!](https://unsplash.com/photos/cfR-V1QuEKw)
+
 <h2> Why am I coding?</h2>
 <p>🌈 I like when projects come to life.</p>
 <p>🤓 Geek as well</p>
@@ -26,5 +28,5 @@
 <p>💬 English, french & german</p>
 <p>:laughing: I’m currently re-booting myself on le Wagon's bootcamp, especially on back-end</p>
 <p>:mag: Take a look on our Wagon's project: http://www.almanac.lol</p>
-<p>:bookmark: [MyToopl](https://troopl.com/neirie)</p>
+:bookmark: [MyToopl](https://troopl.com/neirie)
 <p>:eyes: My linkedin => https://www.linkedin.com/in/laurencernguyen/</p>
